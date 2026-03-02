@@ -22,4 +22,4 @@ Just before the rise of SPECTRE, our agents uncovered a few rogue instances of a
 
 ## Flag
 
-tisc{V1gN3re_4Nd_P4th_tr4v3r5aL!!!!!}
+TISC{V1gN3re_4Nd_P4th_tr4v3r5aL!!!!!}
